@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rehandominic
-- 👀 I’m interested in Bitcoin, iOS Dev, Web Dev, Python, Data Science and ML
-- 🌱 I’m currently learning Full Stack Web Dev
-- 💞️ I’m looking to collaborate on an iOS App
+- 👀 I’m interested in Bitcoin, Python, Data Science and ML
+- 🌱 I’m currently learning Data Science with Python
+- 💞️ I’m looking to collaborate on a  Saas Project
 - 📫 How to reach me rehandominic@gmail.com
 
 <!---
