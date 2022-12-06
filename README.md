@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rehandominic
-- 👀 I’m interested in Bitcoin, Python, Data Science and ML
+- 👋 Hi, I’m @rehandominic from the youtube channel Data with Dominic
+- 📺 My Youtube Channel : https://www.youtube.com/@datawithdominic
+- 👀 I’m interested in all things Data, Bitcoin, Python and ML
 - 🌱 I’m currently learning Data Science with Python
-- 💞️ I’m looking to collaborate on a  Saas Project
 - 📫 How to reach me rehandominic@gmail.com
 
 <!---
